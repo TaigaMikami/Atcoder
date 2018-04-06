@@ -9,4 +9,4 @@ end
 alp_num.each do |key, value|
   print "#{value} "
 end
-  print "\n"
+print "\n"
