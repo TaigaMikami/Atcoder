@@ -23,3 +23,4 @@ puts num_arr.length
 num_arr.length.times do |i|
   puts num_arr[i]
 end
+
