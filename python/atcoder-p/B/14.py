@@ -6,3 +6,5 @@ for i in l:
         ans += i
     X = X >> 1
 print (ans)
+
+# TODO: もう一回
